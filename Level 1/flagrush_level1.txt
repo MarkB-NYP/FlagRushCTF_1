@@ -1,0 +1,10 @@
+*** LEVEL 1: Leet It Be ***
+By Mark Bosco
+
+This is Agent Will Hackett. I have reason to believe the Investigative Cybercrime Unit has been compromised.
+
+I don't know who is behind this, or what their motives are, but lately there have been signs of unauthorized access within our networks. Therefore, I will encrypt all my findings.
+
+The password for my next folder will be "FTC{it_would_be_cool_if_can_you_make_this_flag_leet_thanks}". Of course, per the ICU rules, all passwords have to be converted into LeetSpeak first.
+
+Hint: tjmlwxgjuw?
